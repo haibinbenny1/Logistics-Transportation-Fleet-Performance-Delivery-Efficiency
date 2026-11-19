@@ -6,13 +6,6 @@ This project analyzes fleet performance and delivery efficiency using Microsoft 
 
 The main objective is to understand delivery performance, fuel efficiency, distance travelled, and transportation costs.
 
-## Tools Used
-
-- Microsoft Excel
-- Power BI
-- Power Query Editor
-- DAX
-
 ## Dataset
 
 The project uses two datasets:
